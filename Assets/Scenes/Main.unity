@@ -928,6 +928,10 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
+    - target: {fileID: 65285379571521606, guid: 206090915d1e9324b9ba5976282cc9af, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 206090915d1e9324b9ba5976282cc9af, type: 3}
 --- !u!1 &321286737
@@ -1535,6 +1539,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1110331689}
     m_Modifications:
+    - target: {fileID: 1897283730191004, guid: 789c52f48b0814848b208851232e55c9, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4795804960609496, guid: 789c52f48b0814848b208851232e55c9, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -1566,6 +1574,10 @@ PrefabInstance:
     - target: {fileID: 4795804960609496, guid: 789c52f48b0814848b208851232e55c9, type: 3}
       propertyPath: m_LocalRotation.z
       value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 65748169207807278, guid: 789c52f48b0814848b208851232e55c9, type: 3}
+      propertyPath: m_Material
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 789c52f48b0814848b208851232e55c9, type: 3}
@@ -4292,6 +4304,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -58.42
       objectReference: {fileID: 0}
+    - target: {fileID: 65285379571521606, guid: 206090915d1e9324b9ba5976282cc9af, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 13400000, guid: 561d3d0868c7ecd4cb0644dcd25b75af, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 206090915d1e9324b9ba5976282cc9af, type: 3}
 --- !u!1001 &1565312678
@@ -5531,6 +5547,10 @@ PrefabInstance:
     - target: {fileID: 1897283730191004, guid: 789c52f48b0814848b208851232e55c9, type: 3}
       propertyPath: m_Name
       value: Wall (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897283730191004, guid: 789c52f48b0814848b208851232e55c9, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4795804960609496, guid: 789c52f48b0814848b208851232e55c9, type: 3}
       propertyPath: m_RootOrder
